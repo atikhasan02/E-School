@@ -1,0 +1,90 @@
+
+.container{
+    margin-bottom: 80px;
+}
+.nv-bg{
+    background:#F0FFF0; ;
+}
+.n-b{
+    width: 1440px;
+    height: 550px;
+    background-color: #F0FFF0;
+}
+.nav-button{
+    background: #21B573;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 30px;
+}
+.first-img{
+    width: 520px;
+}
+span{
+    color: #21B573;
+}
+.row{
+    padding-top:40px;
+}
+.f-h1{
+    color: 
+    #FD511A;
+}
+.book{
+    width:66px;
+    height: 85px;
+}
+.card{
+    border: none;
+}
+.aligning{
+text-align: center;}
+.cards .card{
+border: none;
+}
+.another-cards h4{
+    color: #413960;
+}
+.buy-now{
+    height: 35px;
+    width: 137px;
+    border: none;
+    border-radius:35px;
+    color: white;
+    background-color: #21B573;   
+}
+.another-cards .card{
+    border: none;
+}
+.testimonial{
+    height: 320px;
+}
+.testimonial h1{
+    color: #000000;
+    font-weight: 750;
+}
+.testimonial img{
+    width: 100px;
+}
+.finishing{
+    background-color: #282531;
+    height: 350px;
+}
+.finishing p ,ul{
+    color: white;
+}
+.footer p{
+    text-align: center;
+    padding-top: 25px;
+}
+.word-specing{
+    word-spacing: 40px;
+}
+.nav-logo{
+    width: 100px;
+}
+.adding-navbar-background{
+    background-color:  #F0FFF0;;
+}
+.navbar-nav{
+    text-align: right;
+}
